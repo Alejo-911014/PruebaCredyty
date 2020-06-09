@@ -12,3 +12,13 @@ Cada punto fue solucionado y comentado con las librerias internas de python 3 en
 ### Punto 5
   La solución no puede ser encontrada debido al gran procesamiento que requiere. Pero al ejecutan 100 filas el resultado es el mismo del ejemplo
   
+# Docker
+
+La ejecución de Docker consiste en la creación de los containers con el comando (en linux)
+docker build -t python-p1 .
+docker build -t python-p2 .
+docker build -t python-p3 .
+docker build -t python-p4 .
+docker build -t python-p5 .
+
+y su continua ejecución con docker run python-p1  
