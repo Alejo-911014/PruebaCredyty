@@ -22,3 +22,5 @@ docker build -t python-p4 .
 docker build -t python-p5 .
 
 y su continua ejecución con docker run python-p1  
+
+El archivo Dockerfile(2) contiene el script para ejecutar build del punto 3 debido a que debe añadirse el keylog.txt
