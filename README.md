@@ -1,5 +1,20 @@
 # PruebaCredyty
 
+# CRUD
+
+El siguiente crud en un ejemplo de creación de usuarios 
+se debe instalar los requerimientos con
+pip install -r requirements.txt
+correr los comandos: 
+python manage.py migrate
+python manage.py makemigrations
+crear un usuario
+python manage.py createsuperuser
+e iniciar
+python manage.pu runserver
+
+# END
+
 En el repositorio se encuentran 5 archivos py correspondientes a la solución de los 5 puntos nivel semi-senior.
 Cada punto fue solucionado y comentado con las librerias internas de python 3 en su versión 3.7 por lo que no hay necesidad de requerimientos.
 
